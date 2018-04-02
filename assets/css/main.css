@@ -2901,7 +2901,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 7em;
+        height: 15em;
     }
     /* Footer */
     #footer {
