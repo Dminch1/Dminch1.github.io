@@ -2730,7 +2730,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 9em;
+        height: 20em;
     }
     /* Off-Canvas Navigation */
     #titleBar {
