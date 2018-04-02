@@ -2730,7 +2730,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 10em;
+        height: 12em;
     }
     /* Off-Canvas Navigation */
     #titleBar {
@@ -2901,7 +2901,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 7em;
+        height: 9em;
     }
     /* Footer */
     #footer {
