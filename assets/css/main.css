@@ -2566,7 +2566,7 @@ input[type="button"]:disabled,
     background-size: cover;
     content: '';
     display: block;
-    height: 15em;
+    height: 325px;
     width: 100%;
 }
 
