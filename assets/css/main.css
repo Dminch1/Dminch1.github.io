@@ -2566,7 +2566,7 @@ input[type="button"]:disabled,
     background-size: cover;
     content: '';
     display: block;
-    height: 325px;
+    height: 20em;
     width: 100%;
 }
 
@@ -2730,7 +2730,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 300px;
+        height: 10em;
     }
     /* Off-Canvas Navigation */
     #titleBar {
@@ -2901,7 +2901,7 @@ input[type="button"]:disabled,
     }
     /* One */
     #one:before {
-        height: 300px;
+        height: 7em;
     }
     /* Footer */
     #footer {
