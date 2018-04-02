@@ -946,7 +946,7 @@ input[type="button"],
         background-size: cover;
         content: '';
         display: block;
-        height: 325px;
+        height: 300px;
         width: 100%;
     }
 }
@@ -1122,7 +1122,7 @@ input[type="button"],
     /* One */
     #one {
         &:before {
-            height: 150px;
+            height: 10em;
         }
     }
     /* Off-Canvas Navigation */
@@ -1326,7 +1326,7 @@ input[type="button"],
     /* One */
     #one {
         &:before {
-            height: 150px;
+            height: 7em;
         }
     }
     /* Footer */
